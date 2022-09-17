@@ -1,0 +1,1 @@
+This is file2.txt changed from new_2 branch
